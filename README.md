@@ -12,7 +12,7 @@
 - 🌱 Atualmente aprofundando conhecimentos em **Cloud Computing** e **Microserviços**
 - 🎯 Procurando novas oportunidades em **desenvolvimento de software**
 - 💬 Fale comigo sobre **JavaScript, C#, Java, React, APIs**
-- 📧 Como me encontrar: **caio.bindeiro@email.com**
+- 📧 Como me encontrar: **caio.bindeiro@gmail.com**
 
 ---
 
