@@ -8,7 +8,7 @@
 
 **Desenvolvedor de Software** apaixonado por criar soluções inovadoras e de alta qualidade, com foco em **back-end** e em constante aprendizado de novas tecnologias.
 
-- 🎓 **Estudante de Ciência da Computação** na Universidade Federal da Bahia (2021-Cursando)
+- 🎓 **Estudante de Ciência da Computação** na Universidade Federal da Bahia 
 - 🌱 Atualmente aprofundando conhecimentos em **Cloud Computing** e **Microserviços**
 - 🎯 Procurando novas oportunidades em **desenvolvimento de software**
 - 💬 Fale comigo sobre **JavaScript, C#, Java, React, APIs**
